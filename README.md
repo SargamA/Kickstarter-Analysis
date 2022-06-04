@@ -11,8 +11,8 @@ Analyses based on 1 year’s historical data may not be sufficient to make decis
 
 ## Analyses based on Funding Goals
 Based on Analyses performed, there is a certain level of correlation between fundraising goal and outcome.  
-Higher the goal:
-Higher percentage rate of cancelation
-Lower success rate
-While the line graph does provide some insight, a stacked bar graph may provide a better picture.  
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/102809106/171973706-57d1aeae-4a17-4f4e-a417-ebd8b8f7944e.png)
+Higher the goal, lower success rate
+There is a higher success rate between 35,000 to 39,999 that seems to be an outlier and should not be taken into consideration
+![image](https://user-images.githubusercontent.com/102809106/172022121-da8e8277-0b95-4932-a1e8-fb543dbcba34.png)
+
+
